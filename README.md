@@ -1,6 +1,6 @@
-Lab AdonisJs
+# Lab AdonisJs
 
-Lab for getting look on the framework adonisJs
+* Lab for getting look on the framework adonisJs
 
 * Run
 
